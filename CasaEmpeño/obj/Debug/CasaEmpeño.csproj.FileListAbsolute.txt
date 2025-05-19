@@ -1,0 +1,307 @@
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\MainWindow.g.cs
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\View\LoginView.g.cs
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\App.g.cs
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.cache
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.lref
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\bin\Debug\CasaEmpeño.exe.config
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\bin\Debug\CasaEmpeño.exe
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\bin\Debug\CasaEmpeño.pdb
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\MainWindow.baml
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\View\LoginView.baml
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\CasaEmpeño.g.resources
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\CasaEmpeño.Properties.Resources.resources
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\CasaEmpeño.exe
+C:\Users\marco\source\repos\CasaEmpeño\CasaEmpeño\obj\Debug\CasaEmpeño.pdb
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\bin\Debug\CasaEmpeño.exe.config
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\bin\Debug\CasaEmpeño.exe
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\bin\Debug\CasaEmpeño.pdb
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\MainWindow.g.cs
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\View\LoginView.g.cs
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\App.g.cs
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.cache
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.lref
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\MainWindow.baml
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\View\LoginView.baml
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.g.resources
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.Properties.Resources.resources
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.exe
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.pdb
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\View\BuscarProducto.baml
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\View\InformacionProductoView.baml
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\View\BuscarProducto.g.cs
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\View\InformacionProductoView.g.cs
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MainView.g.cs
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductosView.g.cs
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MainView.baml
+C:\Users\marco\source\repos\CasaEmpeño\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductosView.baml
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\bin\Debug\CasaEmpeño.exe.config
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\bin\Debug\CasaEmpeño.exe
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\bin\Debug\CasaEmpeño.pdb
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.AssemblyReference.cache
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\View\BuscarProducto.baml
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\View\InformacionProductoView.baml
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\MainWindow.g.cs
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\View\BuscarProducto.g.cs
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\View\EmpeñoEstimacionView.g.cs
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\View\InformacionProductoView.g.cs
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\View\LoginView.g.cs
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\View\MainView.g.cs
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\View\ProductosView.g.cs
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\App.g.cs
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.cache
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.lref
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\MainWindow.baml
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\View\LoginView.baml
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\View\MainView.baml
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\View\ProductosView.baml
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\View\EmpeñoEstimacionView.baml
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\CasaEmpeño.g.resources
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\CasaEmpeño.Properties.Resources.resources
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.GenerateResource.cache
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.CoreCompileInputs.cache
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\CasaEmpeño.exe
+C:\Users\52492\source\repos\Casa_Empeno\CasaEmpeño\obj\Debug\CasaEmpeño.pdb
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\BuscarProducto.baml
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\DireccionView.baml
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\InformacionProductoView.baml
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MetodoPagoView.baml
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProcesoCompletado.baml
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductoEncontradoView.baml
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\MainWindow.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\BuscarProducto.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\DireccionView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\EmpeñoEstimacionView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\InformacionProductoView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\LoginView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MainView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MetodoPagoView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProcesoCompletado.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductoEncontradoView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductosView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\RealizarEmpeñoView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\View\SeleccionSucursalView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\App.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.cache
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.lref
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.exe
+C:\Users\marco\Desktop\Nueva carpeta\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.pdb
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\BuscarProducto.baml
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\DireccionView.baml
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\InformacionProductoView.baml
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MetodoPagoView.baml
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProcesoCompletado.baml
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductoEncontradoView.baml
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\MainWindow.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\BuscarProducto.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\DireccionView.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\EmpeñoEstimacionView.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\InformacionProductoView.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\LoginView.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MainView.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MetodoPagoView.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProcesoCompletado.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductoEncontradoView.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductosView.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\RealizarEmpeñoView.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\View\SeleccionSucursalView.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\App.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.cache
+C:\Users\marco\Desktop\push y pull\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.lref
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\bin\Debug\CasaEmpeño.exe.config
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\bin\Debug\CasaEmpeño.exe
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\bin\Debug\CasaEmpeño.pdb
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.AssemblyReference.cache
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\DireccionView.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProcesoCompletado.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductoEncontradoView.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\MainWindow.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\BuscarProducto.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\DireccionView.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\EmpeñoEstimacionView.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\InformacionProductoView.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\LoginView.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MainView.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MetodoPagoView.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProcesoCompletado.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductoEncontradoView.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductosView.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\RealizarEmpeñoView.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\SeleccionSucursalView.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\App.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.cache
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.lref
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\CustomControls\BindablePasswordBox.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\MainWindow.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\BuscarProducto.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\EmpeñoEstimacionView.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\InformacionProductoView.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\LoginView.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MainView.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MetodoPagoView.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductosView.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\RealizarEmpeñoView.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\View\SeleccionSucursalView.baml
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.g.resources
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.Properties.Resources.resources
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.GenerateResource.cache
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.CoreCompileInputs.cache
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.exe
+C:\Users\52492\source\repos\Casa-Empe-o clon\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.pdb
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\bin\Debug\CasaEmpeño.exe.config
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\bin\Debug\CasaEmpeño.exe
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\bin\Debug\CasaEmpeño.pdb
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\DireccionView.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProcesoCompletado.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductoEncontradoView.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\MainWindow.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\BuscarProducto.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\DireccionView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\EmpeñoEstimacionView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\InformacionProductoView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\LoginView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MainView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MetodoPagoView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProcesoCompletado.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductoEncontradoView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductosView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\RealizarEmpeñoView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\SeleccionSucursalView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\App.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.cache
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.lref
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\CustomControls\BindablePasswordBox.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\MainWindow.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\BuscarProducto.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\EmpeñoEstimacionView.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\InformacionProductoView.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\LoginView.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MainView.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\MetodoPagoView.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductosView.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\RealizarEmpeñoView.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\SeleccionSucursalView.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.g.resources
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.Properties.Resources.resources
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.exe
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\CasaEmpeño.pdb
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ClienteView.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductoView.baml
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ClienteView.g.cs
+C:\Users\marco\Desktop\Nueva carpeta (2)\Casa-Empe-o\CasaEmpeño\obj\Debug\View\ProductoView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\bin\Debug\CasaEmpeño.exe.config
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\bin\Debug\CasaEmpeño.exe
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\bin\Debug\CasaEmpeño.pdb
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.AssemblyReference.cache
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\ClienteView.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\DireccionView.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\ProcesoCompletado.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\ProductoEncontradoView.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\ProductoView.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\MainWindow.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\BuscarProducto.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\ClienteView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\DireccionView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\EmpeñoEstimacionView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\InformacionProductoView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\LoginView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\MainView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\MetodoPagoView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\ProcesoCompletado.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\ProductoEncontradoView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\ProductosView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\ProductoView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\RealizarEmpeñoView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\SeleccionSucursalView.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\App.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.cache
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.lref
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\CustomControls\BindablePasswordBox.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\MainWindow.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\BuscarProducto.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\EmpeñoEstimacionView.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\InformacionProductoView.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\LoginView.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\MainView.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\MetodoPagoView.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\ProductosView.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\RealizarEmpeñoView.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\SeleccionSucursalView.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\CasaEmpeño.g.resources
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\CasaEmpeño.Properties.Resources.resources
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.GenerateResource.cache
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.CoreCompileInputs.cache
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\CasaEmpeño.exe
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\CasaEmpeño.pdb
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\MensajeEmergente.baml
+C:\Workspace\CasaEmpeñov3\CasaEmpeño\obj\Debug\View\MensajeEmergente.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\bin\Debug\CasaEmpeño.exe.config
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\bin\Debug\CasaEmpeño.exe
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\bin\Debug\CasaEmpeño.pdb
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.AssemblyReference.cache
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\ClienteView.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\DireccionView.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\MensajeEmergente.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\ProcesoCompletado.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\ProductoEncontradoView.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\ProductoView.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\CustomControls\BindablePasswordBox.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\MainWindow.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\BuscarProducto.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\ClienteView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\DireccionView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\EmpeñoEstimacionView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\InformacionProductoView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\LoginView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\MainView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\MensajeEmergente.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\MetodoPagoView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\ProcesoCompletado.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\ProductoEncontradoView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\ProductosView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\ProductoView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\RealizarEmpeñoView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\SeleccionSucursalView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\App.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.cache
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\CasaEmpeño_MarkupCompile.lref
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\CustomControls\BindablePasswordBox.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\MainWindow.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\BuscarProducto.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\EmpeñoEstimacionView.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\InformacionProductoView.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\LoginView.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\MainView.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\MetodoPagoView.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\ProductosView.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\RealizarEmpeñoView.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\SeleccionSucursalView.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\CasaEmpeño.g.resources
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\CasaEmpeño.Properties.Resources.resources
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.GenerateResource.cache
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\CasaEmpeño.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\CasaEmpeño.exe
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\CasaEmpeño.pdb
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\MainViewCliente.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\MainViewCliente.baml

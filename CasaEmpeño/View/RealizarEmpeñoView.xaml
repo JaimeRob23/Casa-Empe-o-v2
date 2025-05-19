@@ -1,0 +1,136 @@
+﻿<Window x:Class="CasaEmpeño.View.RealizarEmpeñoView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CasaEmpeño.View"
+        mc:Ignorable="d"
+        Title="RealizarEmpeñoView" Height="450" Width="800"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True">
+    <Border CornerRadius="12" BorderThickness="2" Opacity="0.95">
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="White" Offset="0.2"/>
+            </LinearGradientBrush>
+        </Border.Background>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+
+                <RowDefinition/>
+
+            </Grid.RowDefinitions>
+
+
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="25"/>
+                    <ColumnDefinition Width="25"/>
+                    <ColumnDefinition Width="5"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="SELECCIONA LA FORMA DE ENTREGA"
+                   Foreground="Black"
+                   FontSize="15"
+                   FontFamily="Montserrat"
+                   Grid.Column="0"
+                   VerticalAlignment="Center"
+                   Margin="10,0,0,0"/>
+
+                <Button x:Name="btnMinimizar"
+                Content="-"
+                Foreground="White"
+                FontSize="16"
+                FontFamily="Montserrat"
+                Cursor="Hand"
+                Grid.Column="1"
+                Click="btnMinimizar_Click">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Background" Value="Black"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="BlueViolet"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Width="18" Height="18" CornerRadius="9" Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+
+                <Button x:Name="btnCerrar"
+                Content="X"
+                Foreground="White"
+                FontSize="16"
+                FontFamily="Montserrat"
+                Cursor="Hand"
+                Grid.Column="2"
+                Click="btnCerrar_Click">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Background" Value="Black"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="Red"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Width="18" Height="18" CornerRadius="9" Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Width="220" Grid.Column="0" Orientation="Vertical" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,20,30,20">
+                    <TextBlock Width="200" 
+                        Height="100" 
+                        Text="Recibo a Domicilio "
+                        TextAlignment="Center"
+                        TextWrapping="Wrap"
+                        FontWeight="Bold"
+                        FontSize="26"/>
+                    <TextBlock Width="200" 
+                        Text="Ingrese su domicilio y su articulo será recogido "
+                        TextAlignment="Center" 
+                        TextWrapping="Wrap"
+                        FontSize="26"/>
+                    <Button x:Name="btnRecibir" Width="180" Content="Recibo" FontSize="18" Foreground="White" Background="Black" Margin="0,50,0,0" Click="btnRecibir_Click"/>
+                </StackPanel>
+                <StackPanel Width="220" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="30,20,0,20">
+                    <TextBlock Width="200" 
+                        Height="100" 
+                        Text="Entrega en sucursal "
+                        TextAlignment="Center"
+                        TextWrapping="Wrap"
+                        FontWeight="Bold"
+                        FontSize="26"/>
+                    <TextBlock Width="220" 
+                        Text="Lleve su producto a una sucursal para recibir su prestamo"
+                        TextAlignment="Center"
+                        TextWrapping="Wrap"
+                        FontSize="26"/>
+                    <Button x:Name="btnEntrega" Width="180" Content="Entrega" FontSize="18" Foreground="White" Background="Black" Margin="0,50,0,0" Click="btnEntrega_Click"/>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

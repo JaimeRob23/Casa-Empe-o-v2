@@ -1,0 +1,208 @@
+﻿<Window x:Class="CasaEmpeño.View.LoginView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModel="clr-namespace:CasaEmpeño.ViewModel"
+        xmlns:CustomControls="clr-namespace:CasaEmpeño.CustomControls"
+        mc:Ignorable="d"
+        Title="LoginView" Height="700" Width="950"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True" Cursor="">
+
+    <Border CornerRadius="12" BorderThickness="2" Opacity="0.95">
+
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="White" Offset="0.2"/>
+            </LinearGradientBrush>
+        </Border.Background>
+
+        <Grid OpacityMask="Black">
+            <Grid.Background>
+                <ImageBrush ImageSource="/View/abstract-blur-centro-comercial.jpg"/>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+
+                <RowDefinition/>
+
+            </Grid.RowDefinitions>
+
+
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="25"/>
+                    <ColumnDefinition Width="25"/>
+                    <ColumnDefinition Width="5"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Inicio de sesion"
+                           Foreground="Black"
+                           FontSize="15"
+                           FontFamily="Montserrat"
+                           Grid.Column="0"
+                           VerticalAlignment="Center"
+                           Margin="10,0,0,0"/>
+
+                <Button x:Name="btnMinimizar"
+                        Content="-"
+                        Foreground="White"
+                        FontSize="16"
+                        FontFamily="Montserrat"
+                        Cursor="Hand"
+                        Grid.Column="1"
+                        Click="btnMinimizar_Click">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Background" Value="Black"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="Orange"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Width="18" Height="18" CornerRadius="9" Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+
+                <Button x:Name="btnCerrar"
+                        Content="X"
+                        Foreground="White"
+                        FontSize="16"
+                        FontFamily="Montserrat"
+                        Cursor="Hand"
+                        Grid.Column="2"
+                        Click="btnCerrar_Click">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Background" Value="Black"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="Red"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Width="18" Height="18" CornerRadius="9" Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <TextBlock x:Name="txtFechaHora"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Center"
+               Margin="10,-380,20,0"
+               FontFamily="Montserrat"
+               FontSize="15"
+               Foreground="#FF3F5093"/>
+            </Grid>
+
+
+            <StackPanel Width="250" Grid.Row="1" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,20,0,20" Background="#80FFFFFF" Opacity="0.95">
+                <Image Source="/Images/lgoCasaEmpenoSinFondo.png" Width="150" Height="150" OpacityMask="Black"/>
+                <TextBlock Text="Usuario"
+               Foreground="Black"
+               FontSize="15"
+               FontWeight="Medium"
+               FontFamily="Montserrat"
+               Margin="0,15,0,0"/>
+                <TextBox x:Name="txtUser"
+                               Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}"
+                               FontFamily="Montserrat"
+                               FontSize="13"
+                               FontWeight="Medium"
+                               Foreground="Black"
+                               Height="28"
+                               CaretBrush="Black"
+                               BorderBrush="Black"
+                               BorderThickness="0,0,0,2"
+                               VerticalAlignment="Center"
+                               Margin="0,5,0,0"
+                               Padding="20,0,0,0">
+
+                    <TextBox.Background>
+                        <ImageBrush ImageSource="/Images/user-icon.png"
+                                        Stretch="None"
+                                        AlignmentX="Left"/>
+
+                    </TextBox.Background>
+
+                </TextBox>
+
+                <TextBlock Text="Contraseña"
+                               Foreground="Black"
+                               FontSize="15"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="0,15,0,0"/>
+
+                <!--<customcontrols:BindablePasswordBoxx
+        Password="{Binding Password, 
+        Mode = TwoWay,
+        UpdateSourceTrigger = PropertyChanged}"
+        Height="28"
+        Margin="0,5,0,0">
+       
+    </customcontrols:BindablePasswordBoxx>-->
+
+
+
+                <CustomControls:BindablePasswordBox
+                Password="{Binding Password, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                 Height="28"
+                Margin="0,5,0,0" />
+                <TextBlock Text="{Binding ErrorMessage}"
+                               Foreground="#D7596D"
+                               FontSize="12"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               Margin="0,10,0,0"
+                               TextWrapping="Wrap"/>
+                <Button x:Name="btnLogin"
+                            Command="{Binding LoginCommand}"
+                            BorderThickness="0"
+                            Content="Iniciar Sesion"
+                            Foreground="White"
+                            FontSize="14"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Margin="0,30,0,0" Click="btnLogin_Click" Background="#FF3F5093">
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="Black"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="Coral"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="150" Height="40" CornerRadius="20"
+                                        Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>
