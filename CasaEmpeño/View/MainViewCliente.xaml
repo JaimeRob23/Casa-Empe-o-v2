@@ -18,6 +18,10 @@
                 </LinearGradientBrush>
             </Border.Background>
             <Grid>
+
+                <Grid.Background>
+                    <ImageBrush ImageSource="/View/abstract-blur-centro-comercial.jpg"/>
+                </Grid.Background>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="30"/>
                     <RowDefinition/>
@@ -122,7 +126,7 @@
                             Click="btnEmpeñar_Click">
                         <Button.Style>
                             <Style TargetType="Button">
-                                <Setter Property="Background" Value="Black"/>
+                                <Setter Property="Background" Value="#FFEB9999"/>
                                 <Style.Triggers>
                                     <Trigger Property="IsMouseOver" Value="True">
                                         <Setter Property="Background" Value="CadetBlue"/>
@@ -152,7 +156,7 @@
                         Click="btnComprar_Click">
                         <Button.Style>
                             <Style TargetType="Button">
-                                <Setter Property="Background" Value="Black"/>
+                                <Setter Property="Background" Value="#FFEB9999"/>
                                 <Style.Triggers>
                                     <Trigger Property="IsMouseOver" Value="True">
                                         <Setter Property="Background" Value="CadetBlue"/>
@@ -162,7 +166,9 @@
                         </Button.Style>
                     </Button>
                 </StackPanel>
+                <Image Source="/Images/lgoCasaEmpenoSinFondo.png" HorizontalAlignment="Left" Height="119" Margin="40,20,0,0" VerticalAlignment="Top" Width="89" Grid.Row="1"/>
             </Grid>
+
         </Border>
     </Border>
 </Window>

@@ -74,6 +74,7 @@
     <Compile Include="ViewModel\MainViewodel.cs" />
     <Compile Include="ViewModel\ProductoViewModel.cs" />
     <Compile Include="ViewModel\RecordViewModel .cs" />
+    <Compile Include="ViewModel\RegisterViewModel.cs" />
     <Compile Include="ViewModel\ViewModelBase.cs" />
     <Compile Include="ViewModel\ViewModelBaseCommand.cs" />
     <Compile Include="ViewModel\ViewModelCommand .cs" />
@@ -121,6 +122,9 @@
     </Compile>
     <Compile Include="View\RealizarEmpeñoView.xaml.cs">
       <DependentUpon>RealizarEmpeñoView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\RegisterView.xaml.cs">
+      <DependentUpon>RegisterView.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\SeleccionSucursalView.xaml.cs">
       <DependentUpon>SeleccionSucursalView.xaml</DependentUpon>
@@ -201,6 +205,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="View\RegisterView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="View\SeleccionSucursalView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -244,6 +252,12 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="View\abstract-blur-centro-comercial.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\17580.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\abstract_pattern_design_background_2007.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

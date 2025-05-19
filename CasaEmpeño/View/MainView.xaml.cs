@@ -52,5 +52,10 @@ namespace CasaEmpeño.View
             var productoView = new ProductoView();
             productoView.Show();
         }
+
+        private void BtnGestorUsuarios_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

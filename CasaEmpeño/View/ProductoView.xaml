@@ -17,7 +17,10 @@
             </LinearGradientBrush>
         </Border.Background>
 
-        <Grid Background="#FF94A0DA">
+        <Grid >
+            <Grid.Background>
+                <ImageBrush ImageSource="/View/abstract-blur-centro-comercial.jpg"/>
+            </Grid.Background>
             <Grid.RowDefinitions>
                 <RowDefinition Height="30"/>
                 <RowDefinition Height="Auto"/>
@@ -100,7 +103,13 @@
 
             <!-- Formulario -->
             <Border Grid.Row="1" BorderBrush="LightGray" BorderThickness="0,0,0,1" Margin="10">
-                <Grid Background="#FF9DBBF4">
+                <Grid>
+                    <Grid.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="#FFCBFCF8" Offset="0.128"/>
+                            <GradientStop Color="White" Offset="1"/>
+                        </LinearGradientBrush>
+                    </Grid.Background>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="Auto"/>
                         <ColumnDefinition/>
@@ -128,8 +137,14 @@
             </Border>
 
             <!-- Lista de productos -->
-            <DataGrid Grid.Row="2" ItemsSource="{Binding Productos}" AutoGenerateColumns="False" Margin="10"
-                      SelectedItem="{Binding ProductoActual}" IsReadOnly="True" Background="{x:Null}" SelectionChanged="DataGrid_SelectionChanged">
+            <DataGrid Grid.Row="2" ItemsSource="{Binding Productos}" AutoGenerateColumns="False" Margin="8,16,12,79"
+                      SelectedItem="{Binding ProductoActual}" IsReadOnly="True" SelectionChanged="DataGrid_SelectionChanged">
+                <DataGrid.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFCAE7EB" Offset="0.143"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </DataGrid.Background>
                 <DataGrid.Columns>
                     <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" Width="*"/>
                     <DataGridTextColumn Header="Categoría" Binding="{Binding Categoria}" Width="*"/>
@@ -148,6 +163,7 @@
             </StackPanel>
 
             <TextBlock Grid.Row="3" Text="{Binding Mensaje}" Foreground="Red" HorizontalAlignment="Right" Margin="10" VerticalAlignment="Center"/>
+            <Image Source="/Images/lgoCasaEmpenoSinFondo.png" HorizontalAlignment="Left" Height="123" Margin="20,356,0,0" Grid.RowSpan="2" Grid.Row="2" VerticalAlignment="Top" Width="139"/>
         </Grid>
     </Border>
 </Window>

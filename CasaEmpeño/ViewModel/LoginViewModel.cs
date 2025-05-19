@@ -64,15 +64,20 @@ namespace CasaEmpeño.ViewModel
 
         // Comandos
         public ICommand LoginCommand { get; }
-        public ICommand RecoverPasswordCommand { get; }
-        public ICommand ShowPasswordCommand { get; }
-        public ICommand RememberPasswordCommand { get; }
+        public ICommand OpenRegisterCommand { get; }
+        
+        private void ExecuteOpenRegisterCommand(object obj)
+        {
+            var registerView = new RegisterView();
+            registerView.Show();
 
+        }
         // Constructor
         public LoginViewModel()
         {
             userRepository = new UserRepository();
             LoginCommand = new ViewModelCommand(ExecuteLoginCommand, CanExecuteLoginCommand);
+            OpenRegisterCommand = new ViewModelCommand(ExecuteOpenRegisterCommand);
         }
 
         private bool CanExecuteLoginCommand(object obj)
@@ -86,6 +91,7 @@ namespace CasaEmpeño.ViewModel
 
             return validData;
         }
+
 
         private void ExecuteLoginCommand(object obj)
         {

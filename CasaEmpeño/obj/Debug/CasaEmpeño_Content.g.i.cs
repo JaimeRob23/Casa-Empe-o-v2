@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("view/abstract-blur-centro-comercial.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("view/abstract_pattern_design_background_2007.jpg")]
 
 

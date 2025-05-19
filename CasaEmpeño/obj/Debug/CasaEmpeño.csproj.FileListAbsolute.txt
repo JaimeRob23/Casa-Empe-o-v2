@@ -305,3 +305,5 @@ C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmp
 C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\CasaEmpeño.pdb
 C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\MainViewCliente.g.cs
 C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\MainViewCliente.baml
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\RegisterView.g.cs
+C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\obj\Debug\View\RegisterView.baml

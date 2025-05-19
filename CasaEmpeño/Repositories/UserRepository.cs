@@ -25,7 +25,7 @@ namespace CasaEmpeño.Repositories
             {
                 connection.Open();
                 command.Connection = connection;
-                command.CommandText = "INSERT INTO [User] VALUES(@Id, @Username, @Password, @Name, @LastName, @Email)";
+                command.CommandText = "INSERT INTO [User] VALUES (@Id, @Username, @Password, @Name, @LastName, @Email)";
                 command.Parameters.AddWithValue("@Id", userModel.Id);
                 command.Parameters.AddWithValue("@Username", userModel.Username);
                 command.Parameters.AddWithValue("@Password", userModel.Password);
@@ -33,7 +33,6 @@ namespace CasaEmpeño.Repositories
                 command.Parameters.AddWithValue("@LastName", userModel.LastName);
                 command.Parameters.AddWithValue("@Email", userModel.Email);
                 command.ExecuteNonQuery();
-                connection.Close();
             }
         }
 

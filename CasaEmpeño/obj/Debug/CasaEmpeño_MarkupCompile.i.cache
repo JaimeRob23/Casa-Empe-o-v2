@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\marco\Downloads\CasaEmpeñoCrudCompleto\CasaEmpeñoCrudCompleto\CasaEmpeño\App.xaml
-182018213172
+19-876162201
 
-42-371954153
+44-444584593
 13-1310406943
-CustomControls\BindablePasswordBox.xaml;MainWindow.xaml;View\BuscarProducto.xaml;View\ClienteView.xaml;View\DireccionView.xaml;View\EmpeñoEstimacionView.xaml;View\InformacionProductoView.xaml;View\LoginView.xaml;View\MainView.xaml;View\MainViewCliente.xaml;View\MensajeEmergente.xaml;View\MetodoPagoView.xaml;View\ProcesoCompletado.xaml;View\ProductoEncontradoView.xaml;View\ProductosView.xaml;View\ProductoView.xaml;View\RealizarEmpeñoView.xaml;View\SeleccionSucursalView.xaml;
+CustomControls\BindablePasswordBox.xaml;MainWindow.xaml;View\BuscarProducto.xaml;View\ClienteView.xaml;View\DireccionView.xaml;View\EmpeñoEstimacionView.xaml;View\InformacionProductoView.xaml;View\LoginView.xaml;View\MainView.xaml;View\MainViewCliente.xaml;View\MensajeEmergente.xaml;View\MetodoPagoView.xaml;View\ProcesoCompletado.xaml;View\ProductoEncontradoView.xaml;View\ProductosView.xaml;View\ProductoView.xaml;View\RealizarEmpeñoView.xaml;View\RegisterView.xaml;View\SeleccionSucursalView.xaml;
 
-False
+True
 
